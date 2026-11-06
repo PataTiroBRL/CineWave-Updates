@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "updatedAt": "2026-11-06T19:00:00Z",
+  "android": {
+    "version": "1.1.0",
+    "versionCode": 6,
+    "url": null,
+    "sha256": null,
+    "sizeBytes": null
+  },
+  "samsung": {
+    "version": "1.1.0",
+    "url": null,
+    "sha256": null,
+    "sizeBytes": null,
+    "installation": "development-mode"
+  },
+  "runtime": {
+    "version": "1.1.0",
+    "mode": "local",
+    "requiresLocalServer": true
+  },
+  "notes": "Pacotes em validação. Endereço do servidor configurado apenas no aparelho."
+}
