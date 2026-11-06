@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "updatedAt": "2026-11-06T19:00:00Z",
+  "updatedAt": "2026-11-06T21:00:01.291621+00:00",
   "android": {
-    "version": "1.1.0",
-    "versionCode": 6,
-    "url": null,
-    "sha256": null,
-    "sizeBytes": null
+    "version": "2.0.2",
+    "versionCode": 9,
+    "sha256": "05954504bc197edc8a9b91f476b0ac059405864e971beca9d4df2e3fc9f30099",
+    "sizeBytes": 53105407,
+    "url": "https://github.com/PataTiroBRL/CineWave-Updates/releases/download/untagged-2dc49a37040d460f6586/CineWave-TV-2.0.2.apk"
   },
   "samsung": {
     "version": "1.1.0",
@@ -17,9 +17,9 @@
     "installation": "development-mode"
   },
   "runtime": {
-    "version": "1.1.0",
-    "mode": "local",
-    "requiresLocalServer": true
+    "version": "2.0.2",
+    "mode": "embedded-android",
+    "requiresLocalServer": false
   },
-  "notes": "Pacotes em validação. Endereço do servidor configurado apenas no aparelho."
+  "notes": "Android independente de PC/VPS. Samsung Tizen ainda não migrado."
 }
