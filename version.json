@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "updatedAt": "2026-11-15T22:38:23.820107+00:00",
+  "updatedAt": "2026-11-16T21:16:08.284150+00:00",
   "android": {
-    "version": "2.1.17",
-    "versionCode": 30,
-    "sha256": "3d198bce02cd1d17a6539b797e90de214e3164a282e960caf0c29456a5e85d94",
-    "sizeBytes": 113770346,
-    "url": "https://github.com/PataTiroBRL/CineWave-Updates/releases/download/v2.1.17/CineWave-TV-2.1.17.apk"
+    "version": "2.1.26",
+    "versionCode": 39,
+    "sha256": "6f8d1bd294a62c769209d4e2082595c24449ab9d6922006e2ed19b8924d5a83e",
+    "sizeBytes": 133182006,
+    "url": "https://github.com/PataTiroBRL/CineWave-Updates/releases/download/v2.1.26/CineWave-TV-2.1.26.apk"
   },
   "samsung": {
     "version": "1.1.0",
@@ -17,7 +17,7 @@
     "installation": "development-mode"
   },
   "runtime": {
-    "version": "2.1.17",
+    "version": "2.1.26",
     "mode": "embedded-android",
     "requiresLocalServer": false
   },
